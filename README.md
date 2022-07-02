@@ -1,1 +1,1 @@
-# block_proto
+# Block puzzle master
